@@ -1,6 +1,6 @@
 abstract class Animal {
 
-    String type;
+
     public abstract String hasFur();
     public abstract String hasSpine();
 

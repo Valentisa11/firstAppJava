@@ -5,9 +5,7 @@ public class Bear extends Animal {
     public String hasFur() {
         return "Да";
     }
-    public String getName() {
-        return type;
-    }
+
     @Override
     public String hasSpine() {
         return "Да";

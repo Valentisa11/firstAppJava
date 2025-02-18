@@ -1,5 +1,5 @@
 public class Fish extends Animal {
-    String type = "Рыба";
+
 
     @Override
     public String hasFur() {
